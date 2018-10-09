@@ -1,6 +1,6 @@
-__author__='dj';
+__author__='cc'
 def main():
-    pass
-
+    i=100
+    return i
 if __name__=='main':
     main()
